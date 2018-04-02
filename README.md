@@ -37,3 +37,8 @@ The next task is to implement the distance vector routing algorithm. Starting wi
 • next delay, where next is the address of the neighboring machine to which the packet should be forwarded,
   and delay is the estimated delay to the final destination of the packet, as decimal number.
 • THANK YOU if the packet is a routing packet for your router.
+
+
+
+
+I also attach the sample inputs for each of the assignments.
