@@ -1,6 +1,6 @@
 # VU_ComputerNetworks
 
-This repository includes the assignments for Computer Networks at VU University the year 2017-2018
+This repository includes Computer Networks' exercises for the VU University the year 2017-2018
 
 
 # Framing:
